@@ -19,5 +19,13 @@
   "main": "main.js",
   "author": "",
   "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/VictorlIX/VictorlIX.git"
+  },
+  "bugs": {
+    "url": "https://github.com/VictorlIX/VictorlIX/issues"
+  },
+  "homepage": "https://github.com/VictorlIX/VictorlIX#readme",
   "description": ""
 }
