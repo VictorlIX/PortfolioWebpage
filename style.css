@@ -63,7 +63,7 @@ canvas {
   }
 
   section {
-    grid-column: 2 / 8;
+    grid-column: 1 / 8;
     padding: 1rem;
     background: var(--dark-bg);
     font-size: 1.25rem;
