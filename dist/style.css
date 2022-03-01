@@ -63,7 +63,7 @@ canvas {
   }
 
   section {
-    grid-column: 2 / 8;
+    grid-column: 1 / 9;
     padding: 1rem;
     background: var(--dark-bg);
     font-size: 1.25rem;
@@ -74,7 +74,7 @@ canvas {
   blockquote {
     margin: 0;
     padding: 0;
-    grid-column: 2 / span 9;
+    grid-column: 1/ span 9;
     margin-bottom: var(--spacing);
   }
 
@@ -86,7 +86,7 @@ canvas {
   }
 
   .right{
-    grid-column: 6 / 12;
+    grid-column: 6 / 13;
   }
 
   #pot {
